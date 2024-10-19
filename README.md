@@ -1,2 +1,2 @@
 # ControlFinance_TestCase
- Tests for a website, using Junit and Selenium
+Testes unitários, de integração e de implementação para a aplicação web ControlFinance, utilizando JUnit, Selenium e Mockito.
